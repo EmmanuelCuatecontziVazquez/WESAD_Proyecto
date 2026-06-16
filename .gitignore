@@ -1,0 +1,6 @@
+# Datos originales WESAD
+WESAD/
+
+# Archivos temporales
+.ipynb_checkpoints/
+__pycache__/
